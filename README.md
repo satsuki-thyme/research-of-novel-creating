@@ -19,4 +19,4 @@
 
 ## 思考ノート
 
-- thinking-notes/thi-001.md: 文彩
+- idea-notes/ide-001.md: 文彩
