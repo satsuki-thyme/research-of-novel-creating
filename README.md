@@ -2,7 +2,7 @@
 
 ## 目次
 
-### 研究
+### 研究ノート
 
 - research-notes/rNo-001.md: 「どんでん返し」の作り方
 - research-notes/rNo-002.md: 物語の牽引力とは何か
@@ -17,6 +17,6 @@
 - research-notes/rNo-011.md: 描写するもの
 - research-notes/rNo-012.md: 転換点
 
-## 思考ノート
+## アイデアノート
 
 - idea-notes/ide-001.md: 文彩
